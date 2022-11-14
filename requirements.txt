@@ -4,6 +4,7 @@ matplotlib
 ipywidgets
 sympy
 pyvista
+vtk
 VTUInterface
 ogs
 ogs6py
