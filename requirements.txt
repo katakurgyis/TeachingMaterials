@@ -3,4 +3,6 @@ scipy
 matplotlib
 ipywidgets
 sympy
-
+pyvista
+os
+ogs6py
